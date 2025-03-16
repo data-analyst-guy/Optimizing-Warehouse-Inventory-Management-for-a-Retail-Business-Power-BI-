@@ -1,1 +1,1 @@
-# Warehouse-Inventory-Analysis-Power-BI-
+# Optimizing Warehouse Inventory Management for a Retail Business | Power BI 
